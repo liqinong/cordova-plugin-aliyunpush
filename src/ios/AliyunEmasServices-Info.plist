@@ -1,46 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
-        <key>config</key>
-        <dict>
+<dict>
+	<key>config</key>
+	<dict>
             <key>emas.appKey</key>
-            <string>24904185</string>
+            <string>24897986</string>
             <key>emas.appSecret</key>
-            <string>b475ae58ee1a1c2a45f9de507f7e518d</string>
+            <string>f2b603e88e26334a79b4972b559e6c28</string>
             <key>emas.bundleId</key>
-            <string>cc.septnet.student</string>
-        </dict>
-        <key>services</key>
-        <dict>
-            <key>httpdns_service</key>
-            <dict>
-                <key>status</key>
-                <integer>1</integer>
-                <key>version</key>
-                <string>1.6.13</string>
-            </dict>
-            <key>cps_service</key>
-            <dict>
-                <key>status</key>
-                <integer>1</integer>
-                <key>version</key>
-                <string>1.9.8</string>
-            </dict>
-            <key>feedback_service</key>
-            <dict>
-                <key>status</key>
-                <integer>1</integer>
-                <key>version</key>
-                <string>3.3.3</string>
-            </dict>
-            <key>man_service</key>
-            <dict>
-                <key>status</key>
-                <integer>0</integer>
-                <key>version</key>
-                <string>1.0.13</string>
-            </dict>
-        </dict>
-    </dict>
+            <string>com.baishijiaju.agentapp</string>
+            <key>hotfix.idSecret</key>
+            <string>24897986-2</string>
+            <key>hotfix.rsaSecret</key>
+            <string>MIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCd8KPVaZSC+irIetWOtSCyM7/0UF+3KdGn/XpNROulun9HA57+5+31q1/gC7iPy5woN6s2mHFnJrELC1RazH1KCdLewP5AeZw5SmzSgzRuJv1oqYwLA283QxdiRU+/8x2qr2Um3j+o6ehKILQUczwxFRg7wdn1J2KHdbdnmmBghyJNrpJgVGm5pQJZTL6xfKlJbSr5zbjTYth5ysSDFWJ/lrtMF2nzMy/IavX5eUfvf2D79OHRYoAPRub218dqm5NM3PgM8uxvT4Jna+WXXxrg2mIxoz2M5D46ej6f2vY900xF/D73NAevBds8N9Of80aPa92juQo+nxfozsrRvo8NAgMBAAECggEAWxkW1pysXZPAI5y+Gy8cKc0xldDaNIK5fCT3ayQqq4/To/lRtwO9vGrZxRfdn4s4ifX6GmZ5Wp71lUI2qJy0U4UxDOzSegvq8RydghrNng99MOZCcYPMnVpkXXlPE489+FpshKvCmkI4irEsTXNeL41USft5JS9PZISggfCIUIQZK91aveiBP7APHmich9genFu2SbmTknAHHBbXjb8uM0YVxUKAZpN49g7WHiOL2wAzC/6F2O6llS9aS5ZeRrgmMYV0B+c+/DpZd4dwP2dkUT+Gf2Zy+nsStz3YKDm8HvVU9VR0PwNV6NatNhgxRGBOIEku5Q8bHcK8Q0gcU5szAQKBgQDSwpM4AHT+0Tvv664yzco1stwHCFkpk3bpX9GGTouSUxxGA35hyMf1CQzw2m+qWyHrLz1qzXPBERcZ7J5NOEmsDEU/VLvOGr2Vaz8JdDCjt08UxTCD0vW401F4WY6/j139sXjrNJVUE7/19L2b8FyIZi6bzHxzEEImDUE0LOxdzQKBgQC/15AJKMINRA7YiQyK7LhcVC0DpKGUcadEDywO2yVKy/3JU1mxW5R0paysIh8JUQVYaBOJFmrra57x3j9X05YFEPVppoYvmLXxY0w8znEq9nR2Dtd3wD5ACfK+Cfv5E2xqXMfoDN/U1korKgkTr+4rfvl/wGaER87A03UoGDe2QQKBgQC4G1KBDB0nb11dUtKj/JKUX/7GgetpXzDz4kjkev5/Puym2GxxPPQ3P8W3LAl5lgxGJskO4BQq5iP4+HK8X9wzV7CyBvHbtA5CVSIGvyGyEfIZ4btknEccQjSb3hfNjI59i6dmR1Pe0zXPxBBSBSC/4gr6/CEGXoB6Pv/jdQ6xTQKBgQCRuTbKHlG5Lfdw+Dm01bf9OluvJsEuN17tTfETn9emB2pSIaRCGuSb7rVJU+nrc8Xxr60XNxYkme10oHPRTQHp+0XP6RSI1yFtqRXiIpbIIcm5W/DEIB2pG2VugbsLKnvyF2Qqmozz6YsRWq7ma38pPxxatFWrKbidtIKL4EmBgQKBgQC90r8yOsuUEDarYbuO1kpFNlwCGJO34SGUAIIIqW0AgdwfpA+RfggUUc2rmaPYJ1bBDYcpkvYNmjUSITqvDmPHR2Wxr+JfpX8JeRh7QKaWwsm8q3CiCml82/vpFTiK2sf5Rr19xR+/d7KBYgwAVipt3OJd64ZRzmQOk6Vd26Q/Tg==</string>
+            <key>httpdns.accountId</key>
+            <string>137619</string>
+            <key>httpdns.secretKey</key>
+            <string>4f76e61e0dfe448d8c18bfccdec7892d</string>
+    	</dict>
+	<key>services</key>
+	<dict>
+		<key>httpdns_service</key>
+		<dict>
+			<key>status</key>
+			<integer>1</integer>
+			<key>version</key>
+			<string>1.6.14.1</string>
+		</dict>
+		<key>cps_service</key>
+		<dict>
+			<key>status</key>
+			<integer>1</integer>
+			<key>version</key>
+			<string>1.9.8</string>
+		</dict>
+		<key>feedback_service</key>
+		<dict>
+			<key>status</key>
+			<integer>1</integer>
+			<key>version</key>
+			<string>3.3.3</string>
+		</dict>
+		<key>man_service</key>
+		<dict>
+			<key>status</key>
+			<integer>0</integer>
+			<key>version</key>
+			<string>1.0.13</string>
+		</dict>
+	</dict>
+</dict>
 </plist>
